@@ -1,0 +1,15 @@
+body{
+    background-image: url('bg.jpg');
+    color: cornsilk;
+ 
+}
+H1{
+    color: red;
+    
+ }
+div H1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
