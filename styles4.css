@@ -1,0 +1,10 @@
+body{
+    background-color: #343A40;
+    color: #F9FFEA;
+}
+.Big{
+    font-size: 20px;
+}
+p.Big{
+    background-color: green;
+}
