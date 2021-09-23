@@ -1,0 +1,9 @@
+.ad{
+    color:blue;
+}
+.sd{
+    background-color: red;
+}
+.ad.sd{
+    font-style:italic;
+}
