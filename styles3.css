@@ -1,0 +1,52 @@
+body{
+    background-image: url('bg3.jpg');
+    color: whitesmoke;
+}
+h2{
+    color: #707070;
+}
+.content{
+    color: #707070;
+}
+
+article li{
+    background-color: #FBECEC;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #335D2D;
+   
+}
+p{
+    font-size: 16px;
+}
+.all{
+    margin-left: 50px;
+    color: #012443;
+}
+.first{
+    width:300px;
+    display: inline-block;
+ 
+    background-image: url('bg6.jpg');
+}
+.second{
+    display: inline-block;
+    width:300px;
+ 
+    background-image: url('bg6.jpg');
+ 
+   
+}
+.third{
+    display: inline-block;
+    width:300px;
+  
+    background-image: url('bg6.jpg');
+   
+}
+.fourth{
+    display: inline-block;
+    width:300px;
+ 
+   background-image: url('bg6.jpg');
+}
